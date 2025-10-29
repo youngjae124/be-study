@@ -18,8 +18,22 @@ public class HelloWorld {
 		
 		//sysout 입력후 , ctrl+space 누르면
 		// System.out.println();자동 완성이 된다
-		System.out.println();
+		// System.out.println();
+		
+		// int x;= 변수 x선언
+		// x=1 = 변수에 x에 1을 저장 
+		// int y=2; = 변수 y 를 선언하고 2를 저장
+		// int result= x+y = 변수 result 를 선언하고 x와 y 를 더한 값을 저장
+		//System.out.println(result); = println 메소드 호출
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
-	 e
+	 
