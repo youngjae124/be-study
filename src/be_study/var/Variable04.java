@@ -19,7 +19,7 @@ public class Variable04 {
 	System.out.println(s2 + n3);
 	// string 을 숫자 (정수/실수) 변환하는방법 (1nt/double)
 	System.out.println(Integer.parseInt(s2)+n3); 
-	// string (int)로 변환시켜줌 int value= Integer.parseInt
+	// string (int)로 변환시켜줌 int value= Integer.parseInt 는 정수 변환
 	//					Integer.parseInt("1234") 
 	//						1234+16
 	

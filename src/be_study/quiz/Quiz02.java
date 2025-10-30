@@ -67,7 +67,7 @@ public class Quiz02 {
 			double pi = 3.14;
 			double po = pi;
 			pi= 3.14;
-			System.out.println(pi);
+			System.out.println("원주율 : " +pi);
 		/*
 		 
 		4. 세 개의 문자열 변수가 우리에게 주어졌습니다. 그런데 해당 문자열 변수는 어떤 학생의 점수를 가지고 있습니다.
@@ -86,7 +86,7 @@ public class Quiz02 {
 		
 		
 		
-System.out.println("총점:"+(Integer.parseInt(math)+Integer.parseInt(english)+Integer.parseInt(art)));
+		System.out.println("총점:"+(Integer.parseInt(math) + Integer.parseInt(english) + Integer.parseInt(art) ) );
 		
 		
 			
