@@ -30,48 +30,8 @@ public class Quiz05 {
 		System.out.println((a<b)&&(c>=a));
 		System.out.println((a==b)||(a>=b)||(c<10) );
 		boolean result = !(c==3);
-		System.out.println(result);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		System.out.println(result);		
+				
 		
 		
 		int menuPrice = 30000;
