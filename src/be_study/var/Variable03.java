@@ -101,8 +101,6 @@ public class Variable03 {
 	 	result2 = 1/2;
 	 	result2 =(double)1/2;
 	 	result2 = 1/2.0;
-	 	
-	 	
 	  
 		
 		
