@@ -11,7 +11,7 @@ public class Variable06 {
 		// 기본 타입의 값비교는 == 을 사용한다
 		// 문자열의 비교는 equals() 메소드 를 사용한다 
 		
-		Scanner scanner = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in); 
 		
 		int num1 = scanner.nextInt();
 		int num2 = 10;

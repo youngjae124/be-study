@@ -47,8 +47,18 @@ public class Cond04 {
 			}else {						//적게
 				System.out.println("늦게 적게");
 		}
-		
-		
+		 // 조건문에 해당되는 형식
+		if(goBedTime <= 21 && sleepTime>8) {
+			System.out.println("일찍 많이");
+			//else if (goBedTime <=21 && sleepTime =>8)
+		}else if (goBedTime <=21 && !(sleepTime >8)) {
+			System.out.println("일찍 적게");
+		}else if (goBedTime > 21 && sleepTime >8)
+			System.out.println("늦게 많이");
+		else { // else if
+			System.out.println("늦게 적게");
+		}
+		}
 		
 		
 		
