@@ -1,5 +1,9 @@
 package refer;
 
-public enum Likeindex {
-
+public enum LikeIndex {	
+	VERTBAD,
+	BAD,
+	NORMAL,
+	GOOD,
+	VERYGOOD
 }
