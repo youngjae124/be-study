@@ -1,4 +1,4 @@
-package be_study.quiz24;
+package be_study.quiz.quiz24;
 
 //Base 코드.
 public class Gamble {
