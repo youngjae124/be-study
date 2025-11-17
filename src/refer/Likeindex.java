@@ -1,7 +1,7 @@
 package refer;
 
 public enum LikeIndex {	
-	VERTBAD,
+	VERYBAD,
 	BAD,
 	NORMAL,
 	GOOD,

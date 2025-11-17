@@ -54,7 +54,7 @@ public class Arr05 {
 			scores[i]=scores[i]-5;
 			
 		}
-		for(int s : scores) {
+		for(int s : scores) {  
 			s = s -5;
 		}
 		// 단순 출력용
